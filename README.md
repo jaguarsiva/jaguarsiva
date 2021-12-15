@@ -16,11 +16,11 @@
 
 ### ✨ Reach me on
 
-- [<img align="left" src="https://jaguarsiva.github.io/jaguarsiva/images/instagram.png" alt="Siva Chandran Instagram" /> Instagram](https://www.instagram.com/siva_vchandran/)
+[<img align="left" src="https://jaguarsiva.github.io/jaguarsiva/images/instagram.png" alt="Siva Chandran Instagram" /> ](https://www.instagram.com/siva_vchandran/)
 
-- [<img align="left" src="https://jaguarsiva.github.io/jaguarsiva/images/twitter.png" alt="Siva Chandran Twitter" /> Twitter](https://twitter.com/siva_vchandran)
+[<img align="left" src="https://jaguarsiva.github.io/jaguarsiva/images/twitter.png" alt="Siva Chandran Twitter" /> ](https://twitter.com/siva_vchandran)
 
-- [<img align="left" src="https://jaguarsiva.github.io/jaguarsiva/images/linkedin.png" alt="Siva Chandran Linkedin" /> Linkedin](https://www.linkedin.com/in/sivavchandran/)
+[<img align="left" src="https://jaguarsiva.github.io/jaguarsiva/images/linkedin.png" alt="Siva Chandran Linkedin" /> ](https://www.linkedin.com/in/sivavchandran/)
 
 
 ### ✨ Stuff I use
