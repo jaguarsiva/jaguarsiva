@@ -11,7 +11,7 @@
 
 - ⚡ Mail me on **sivavchandran@gmail.com**
 
-#### Connect with me:
+### Connect with me:
 
 [<img align="left" src="https://jaguarsiva.github.io/jaguarsiva/images/instagram.png" alt="Siva Chandran Instagram" />](https://www.instagram.com/siva_vchandran/)
 
@@ -21,7 +21,7 @@
 
 <br />
 
-#### Languages and Tools:
+### Languages and Tools:
 
 <!--
 **jaguarsiva/jaguarsiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
