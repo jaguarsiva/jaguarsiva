@@ -12,7 +12,7 @@
 
 - ⚡ Mail me on **sivavchandran@gmail.com**
 
-- ⚡ Ring me on **+91 97905 24703, +91 86676 40853**
+- ⚡ Ring me on **[+91 97905 24703](tel:9790524703), [+91 86676 40853](tel:8667640853)**
 
 <!--
 **jaguarsiva/jaguarsiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
