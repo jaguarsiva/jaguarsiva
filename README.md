@@ -23,7 +23,7 @@
 - [<img align="left" src="https://jaguarsiva.github.io/jaguarsiva/images/linkedin.png" alt="Siva Chandran Linkedin" /> Linkedin](https://www.linkedin.com/in/sivavchandran/)
 
 
-#### ✨ What I know
+#### ✨ Stuff I use
 
 -   Frontend -
     [HTML](https://www.w3schools.com/html/) |
