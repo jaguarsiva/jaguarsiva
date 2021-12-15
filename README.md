@@ -11,7 +11,7 @@
 
 - ⚡ Mail me on **sivavchandran@gmail.com**
 
-#### 📫 How to Reach me
+#### ✨ How to Reach me
 
 [<img align="left" src="https://jaguarsiva.github.io/jaguarsiva/images/instagram.png" alt="Siva Chandran Instagram" />](https://www.instagram.com/siva_vchandran/)
 
@@ -21,7 +21,7 @@
 
 <br />
 
-#### ⚡ What I know
+#### ✨ What I know
 
 <details>
   <summary>:zap: Frontend</summary>
