@@ -29,14 +29,18 @@
   - JavaScript
   - SASS
   - Typescript
-- Vue
-- Nuxt
-- Node
-- Express
-- MongoDB
-- Vite
-- Webpack
-- Gulp
+  - Vue
+  - Nuxt
+- Backend
+  - Node
+  - Express
+  - MongoDB
+  - Firebase
+- Tools
+  - Figma 
+  - Vite
+  - Webpack
+  - Gulp
 
 
 #### ⭐ GitHub Stats
