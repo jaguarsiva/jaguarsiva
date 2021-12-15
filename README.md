@@ -23,11 +23,12 @@
 
 #### ⚡ Languages and Tools
 
-- HTML
-- CSS
-- JavaScript
-- SASS
-- Typescript
+- Frontend
+  - HTML
+  - CSS
+  - JavaScript
+  - SASS
+  - Typescript
 - Vue
 - Nuxt
 - Node
