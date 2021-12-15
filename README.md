@@ -11,8 +11,8 @@
 -   😄 Pronouns: He 👨‍🦰
 -   💬 Every day be like: Eat Sleep Code Repeat 🔁
 -   📫 My kinda vibe: Just Code and Chill 😎
--   🔭 Address to see my portfolio: [sivacodes.in](https://sivacodes.in)
--   ⚡ Id to mail me: **sivavchandran@gmail.com**
+-   🔭 Come see my portfolio: [sivacodes.in](https://sivacodes.in)
+-   ⚡ Say hello at: **sivavchandran@gmail.com**
 
 #### ✨ How to Reach me
 
