@@ -32,23 +32,23 @@
     [![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/) 
     [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
     [![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/) 
-    [Nuxt](nuxtjs.org) 
+    [![Nuxt](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](nuxtjs.org) 
     [PostCSS](https://postcss.org/) 
     [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 -   Backend -
-    [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/) |
-    [![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/) |
-    [MongoDB](https://www.mongodb.com/) |
-    [Firebase](https://firebase.google.com/)
+    [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+    [![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/)
+    [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+    [![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
 -   Tools -
-    [Figma](https://www.figma.com/) |
-    [Git](https://git-scm.com/) |
-    [Vite](https://vitejs.dev/) |
-    [Webpack](https://webpack.js.org/) |
-    [Gulp](https://gulpjs.com/) |
-    [eslint](https://eslint.org/) |
+    [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+    [Git](https://git-scm.com/)
+    [Vite](https://vitejs.dev/)
+    [Webpack](https://webpack.js.org/)
+    [Gulp](https://gulpjs.com/)
+    [eslint](https://eslint.org/)
     [Prettier](https://prettier.io/)
 
 #### ✨ GitHub Stats
