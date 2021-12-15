@@ -11,7 +11,7 @@
 
 #### ✨ How to Reach me
 
-[<img align="left" src="https://jaguarsiva.github.io/jaguarsiva/images/instagram.png" alt="Siva Chandran Instagram" />](https://www.instagram.com/siva_vchandran/)
+- [<img align="left" src="https://jaguarsiva.github.io/jaguarsiva/images/instagram.png" alt="Siva Chandran Instagram" />](https://www.instagram.com/siva_vchandran/)
 
 [<img align="left" src="https://jaguarsiva.github.io/jaguarsiva/images/twitter.png" alt="Siva Chandran Twitter" />](https://twitter.com/siva_vchandran)
 
@@ -21,7 +21,7 @@
 
 #### ✨ What I know
 
--   Frontend
+-   Frontend -
     [HTML](https://www.w3schools.com/html/) |
     [CSS](https://www.w3schools.com/css/) |
     [JavaScript](https://www.w3schools.com/js/) |
@@ -32,13 +32,13 @@
     [PostCSS](https://postcss.org/) |
     [TailwindCSS](https://tailwindcss.com/)
 
--   Backend
+-   Backend -
     [Node](https://nodejs.org/en/) |
     [Express](https://expressjs.com/) |
     [MongoDB](https://www.mongodb.com/) |
     [Firebase](https://firebase.google.com/)
 
--   Tools
+-   Tools -
     [Figma](https://www.figma.com/) |
     [Git](https://git-scm.com/) |
     [Vite](https://vitejs.dev/) |
