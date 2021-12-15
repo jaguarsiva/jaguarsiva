@@ -1,9 +1,7 @@
-![Banner image](https://jaguarsiva.github.io/jaguarsiva/images/banner.jpg)
+![Banner image]("https://jaguarsiva.github.io/jaguarsiva/images/banner.jpg")
 
 
-# Siva Chandran 👋
-
----
+<h1 align="center"> Siva Chandran 👋 </h1>
 
 <!--
 **jaguarsiva/jaguarsiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
