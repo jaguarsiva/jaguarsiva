@@ -1,5 +1,5 @@
 
-<img align="center" src="https://jaguarsiva.github.io/jaguarsiva/images/computer.png" alt="computer" />
+<img align="middle" src="https://jaguarsiva.github.io/jaguarsiva/images/computer.png" alt="computer" />
 
 <h1 align="center"> Hi 👋, I'm Siva Chandran! </h1>
 
