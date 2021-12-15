@@ -45,11 +45,11 @@
 -   Tools -
     [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
     [Git](https://git-scm.com/)
-    [Vite](https://vitejs.dev/)
-    [Webpack](https://webpack.js.org/)
+    [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
+    [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)](https://webpack.js.org/)
     [Gulp](https://gulpjs.com/)
-    [eslint](https://eslint.org/)
-    [Prettier](https://prettier.io/)
+    [![eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
+    [![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)](https://prettier.io/)
 
 #### ✨ GitHub Stats
 
