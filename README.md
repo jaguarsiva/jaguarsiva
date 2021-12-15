@@ -12,9 +12,9 @@
 -   💬 Every day be like: Eat Sleep Code Repeat 🔁
 -   📫 My kinda vibe: Just Code and Chill 😎
 -   🔭 Come see my portfolio: [sivacodes.in](https://sivacodes.in)
--   ⚡ You wanna say hello: **sivavchandran@gmail.com**
+-   ⚡ Did you ask for my mail id: **sivavchandran@gmail.com**
 
-## ✨ Reach me on
+## ✨ Wanna say hello
 
 [<img align="left" src="https://jaguarsiva.github.io/jaguarsiva/images/instagram.png" alt="Siva Chandran Instagram" /> ](https://www.instagram.com/siva_vchandran/)
 
