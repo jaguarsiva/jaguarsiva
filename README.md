@@ -7,8 +7,7 @@
 
 #### ✨ Professional and passionate Computer Science Engineer who builds a lot of crazy stuff in the web
 
--   🌱 Short pitch: Ability to transform any user interface designs to pixel perfect, responsive websites
--   😄 Pronouns: He 👨‍🦰
+-   🌱 What I do: Ability to transform any user interface designs to pixel perfect, responsive websites
 -   💬 Every day be like: Eat Sleep Code Repeat 🔁
 -   📫 My kinda vibe: Just Code and Chill 😎
 -   🔭 Come see my portfolio: [sivacodes.in](https://sivacodes.in)
