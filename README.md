@@ -4,6 +4,7 @@
 <p align="center"> Frontend Web Developer | MEVN Stack Developer </p>
 
  <img src="https://komarev.com/ghpvc/?username=jaguarsiva&label=Profile%20views&color=129e00&style=plastic" alt="jaguarsiva" />
+ ~[Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsiva_vchandran)
 
 #### ✨ Professional and passionate Computer Science Engineer who builds a lot of crazy stuff in the web
 
