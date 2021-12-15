@@ -23,32 +23,31 @@
 
 #### ✨ What I know
 
-<details>
-  <summary>:zap: Frontend</summary>
-  - HTML
-  - CSS
-  - JavaScript
-  - SASS
-  - Typescript
-  - Vue
-  - Nuxt
-</details>  
+  - Frontend
+    - [HTML](https://www.w3schools.com/html/)
+    - [CSS](https://www.w3schools.com/css/)
+    - [JavaScript](https://www.w3schools.com/js/)
+    - [SASS](https://sass-lang.com/)
+    - [Typescript](https://www.typescriptlang.org/)
+    - [Vue](https://vuejs.org/)
+    - [Nuxt](nuxtjs.org)
+    - [PostCSS](https://postcss.org/)
+    - [TailwindCSS](https://tailwindcss.com/)
 
-<details>
-  <summary>:zap: Backend</summary>
-  - Node
-  - Express
-  - MongoDB
-  - Firebase
-</details>  
+  - Backend
+    - [Node](https://nodejs.org/en/)
+    - [Express](https://expressjs.com/)
+    - [MongoDB](https://www.mongodb.com/)
+    - [Firebase](https://firebase.google.com/)
 
-<details>
-  <summary>:zap: Tools</summary>
-  - Figma 
-  - Vite
-  - Webpack
-  - Gulp
-</details>  
+  - Tools
+    - [Figma](https://www.figma.com/)
+    - [Git](https://git-scm.com/)
+    - [Vite](https://vitejs.dev/)
+    - [Webpack](https://webpack.js.org/)
+    - [Gulp](https://gulpjs.com/)
+    - [eslint](https://eslint.org/)
+    - [Prettier](https://prettier.io/)
 
 #### ⭐ GitHub Stats
 ![Siva's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaguarsiva&count_private=true)
