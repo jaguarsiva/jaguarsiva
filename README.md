@@ -4,7 +4,7 @@
 <p align="center"> Frontend Web Developer | MEVN Stack Developer </p>
 
  <img src="https://komarev.com/ghpvc/?username=jaguarsiva&label=Profile%20views&color=129e00&style=plastic" alt="jaguarsiva" />
- ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsiva_vchandran)
+
 
 #### ✨ Professional and passionate Computer Science Engineer who builds a lot of crazy stuff in the web
 
@@ -26,7 +26,7 @@
 #### ✨ Stuff I use
 
 -   Frontend -
-    [HTML](https://www.w3schools.com/html/) |
+    [ ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ](https://www.w3schools.com/html/) |
     [CSS](https://www.w3schools.com/css/) |
     [JavaScript](https://www.w3schools.com/js/) |
     [SASS](https://sass-lang.com/) |
