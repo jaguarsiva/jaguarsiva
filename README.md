@@ -7,8 +7,12 @@
 
 #### ✨ Professional Computer Science Engineer building crazy stuff in the web
 
--   🔭 Check out my portfolio at [sivacodes.in](https://sivacodes.in)
--   ⚡ Mail me on **sivavchandran@gmail.com**
+-   🌱 Short pitch: Proven ability to transform any user interface designs to pixel perfect, responsive websites
+-   😄 Pronouns: He 👨‍🦰
+-   💬 Every day be like: Eat Sleep Code Repeat 🔁
+-   📫 My kinda vibe: Just Code and Chill 😎
+-   🔭 Address to see my portfolio: [sivacodes.in](https://sivacodes.in)
+-   ⚡ Id to mail me: **sivavchandran@gmail.com**
 
 #### ✨ How to Reach me
 
