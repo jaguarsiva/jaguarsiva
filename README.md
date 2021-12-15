@@ -1,6 +1,9 @@
 ![Banner image](https://jaguarsiva.github.io/jaguarsiva/images/banner.jpg)
 
-### Hi there 👋
+
+# Siva Chandran 👋
+
+---
 
 <!--
 **jaguarsiva/jaguarsiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
