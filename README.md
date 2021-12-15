@@ -23,9 +23,8 @@
 
 #### Languages and Tools
 
----
 
-#### :zap: GitHub Stats
+#### GitHub Stats
 ![Siva's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaguarsiva&count_private=true)
 
 
