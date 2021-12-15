@@ -14,7 +14,7 @@
 -   🔭 Come see my portfolio: [sivacodes.in](https://sivacodes.in)
 -   ⚡ Say hello at: **sivavchandran@gmail.com**
 
-#### ✨ How to Reach me
+#### ✨ Reach me on
 
 - [<img align="left" src="https://jaguarsiva.github.io/jaguarsiva/images/instagram.png" alt="Siva Chandran Instagram" /> Instagram](https://www.instagram.com/siva_vchandran/)
 
