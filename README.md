@@ -1,3 +1,5 @@
+![Banner image](https://jaguarsiva.github.io/jaguarsiva/images/banner.jpg)
+
 ### Hi there 👋
 
 <!--
