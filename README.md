@@ -5,11 +5,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaguarsiva&label=Profile%20views&color=129e00&style=plastic" alt="jaguarsiva" /> </p>
 
-## Professional Computer Science Engineer building crazy stuff in the web
+#### Professional Computer Science Engineer building crazy stuff in the web
 
 - 🔭 Check out my portfolio at [sivacodes.in](https://sivacodes.in)
 
 - ⚡ Mail me on **sivavchandran@gmail.com**
+
+#### Connect with me:
+
+[<img align="left" src="https://jaguarsiva.github.io/jaguarsiva/images/instagram.png" alt="Siva Chandran Instagram" />](https://www.instagram.com/siva_vchandran/)
+
+
+#### Languages and Tools:
 
 <!--
 **jaguarsiva/jaguarsiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
