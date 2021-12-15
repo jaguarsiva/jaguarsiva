@@ -5,9 +5,9 @@
 
  <img src="https://komarev.com/ghpvc/?username=jaguarsiva&label=Profile%20views&color=129e00&style=plastic" alt="jaguarsiva" />
 
-#### ✨ Professional Computer Science Engineer building crazy stuff in the web
+#### ✨ Professional and passionate Computer Science Engineer who builds a lot of crazy stuff in the web
 
--   🌱 Short pitch: Proven ability to transform any user interface designs to pixel perfect, responsive websites
+-   🌱 Short pitch: Ability to transform any user interface designs to pixel perfect, responsive websites
 -   😄 Pronouns: He 👨‍🦰
 -   💬 Every day be like: Eat Sleep Code Repeat 🔁
 -   📫 My kinda vibe: Just Code and Chill 😎
