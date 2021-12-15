@@ -16,7 +16,6 @@
 
 - [<img align="left" src="https://jaguarsiva.github.io/jaguarsiva/images/linkedin.png" alt="Siva Chandran Linkedin" /> Linkedin](https://www.linkedin.com/in/sivavchandran/)
 
-<br />
 
 #### ✨ What I know
 
