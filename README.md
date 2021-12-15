@@ -11,7 +11,7 @@
 
 #### ✨ How to Reach me
 
-- [<img align="left" src="https://jaguarsiva.github.io/jaguarsiva/images/instagram.png" alt="Siva Chandran Instagram" />](https://www.instagram.com/siva_vchandran/)
+[<img align="left" src="https://jaguarsiva.github.io/jaguarsiva/images/instagram.png" alt="Siva Chandran Instagram" />](https://www.instagram.com/siva_vchandran/)
 
 [<img align="left" src="https://jaguarsiva.github.io/jaguarsiva/images/twitter.png" alt="Siva Chandran Twitter" />](https://twitter.com/siva_vchandran)
 
@@ -47,7 +47,7 @@
     [eslint](https://eslint.org/) |
     [Prettier](https://prettier.io/)
 
-#### ⭐ GitHub Stats
+#### ✨ GitHub Stats
 
 ![Siva's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaguarsiva&count_private=true)
 
