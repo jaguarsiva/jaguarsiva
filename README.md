@@ -1,3 +1,5 @@
+![Banner image](https://jaguarsiva.github.io/jaguarsiva/images/banner.png)
+
 <h1 align="center"> Hi 👋, I'm Siva Chandran! </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaguarsiva&label=Profile%20views&color=129e00&style=plastic" alt="jaguarsiva" /> </p>
