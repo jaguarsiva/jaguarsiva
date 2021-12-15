@@ -1,7 +1,7 @@
 
 <h1 align="center"> Bonjour! I'm Siva Chandran 👋 </h1>
 
-<p align="center"> Frontend Web Developer | MEVN Stack Developer </p>
+<h4 align="center"> Frontend Web Developer | MEVN Stack Developer </h4>
 
  <img src="https://komarev.com/ghpvc/?username=jaguarsiva&label=Profile%20views&color=129e00&style=plastic" alt="jaguarsiva" />
 
