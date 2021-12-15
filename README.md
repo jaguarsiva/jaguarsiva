@@ -21,9 +21,10 @@
 
 <br />
 
-#### ⚡ Languages and Tools
+#### ⚡ What I know
 
-- Frontend
+<details>
+  <summary>:zap: Frontend</summary>
   - HTML
   - CSS
   - JavaScript
@@ -31,17 +32,23 @@
   - Typescript
   - Vue
   - Nuxt
-- Backend
+</details>  
+
+<details>
+  <summary>:zap: Backend</summary>
   - Node
   - Express
   - MongoDB
   - Firebase
-- Tools
+</details>  
+
+<details>
+  <summary>:zap: Tools</summary>
   - Figma 
   - Vite
   - Webpack
   - Gulp
-
+</details>  
 
 #### ⭐ GitHub Stats
 ![Siva's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaguarsiva&count_private=true)
