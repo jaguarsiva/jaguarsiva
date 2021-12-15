@@ -1,4 +1,4 @@
-![Banner image]("https://jaguarsiva.github.io/jaguarsiva/images/banner.jpg")
+![Banner image](https://jaguarsiva.github.io/jaguarsiva/images/banner.jpg)
 
 
 <h1 align="center"> Siva Chandran 👋 </h1>
