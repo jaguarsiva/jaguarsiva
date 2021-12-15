@@ -3,7 +3,7 @@
 
 <h1 align="center"> Hi 👋 I'm Siva Chandran </h1>
 
-<h2 align="center"> Professional Computer Science Engineer building crazy stuff in the web </h2>
+<p align="center"> Professional Computer Science Engineer building crazy stuff in the web </p>
 
 <!--
 **jaguarsiva/jaguarsiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
