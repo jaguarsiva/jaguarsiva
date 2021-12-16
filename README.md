@@ -7,8 +7,8 @@
  <img src="https://komarev.com/ghpvc/?username=jaguarsiva&label=Profile%20views&color=129e00&style=plastic" alt="jaguarsiva" />
 </p>
 
--   👯 Who am I: Professional and passionate Computer Science Engineer building a lot of crazy stuff in the web
--   🌱 What I do: Ability to transform any user interface designs to pixel perfect responsive websites
+-   👯 Who am I: Professional and passionate Computer Science Engineer building a lot of crazy stuff on the web
+-   🌱 What I do: Ability to transform any user interface designs to pixel-perfect responsive websites
 -   💬 Every day be like: Eat Sleep Code Repeat 🔁
 -   📫 My kinda vibe: Just Code and Chill 😎
 -   🔭 Come see my portfolio: [sivacodes.in](https://sivacodes.in)
