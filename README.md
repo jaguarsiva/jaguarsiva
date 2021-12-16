@@ -1,4 +1,9 @@
 
+
+<p align="center"> 
+ <img src="https://sivacodes.in/logo.png" alt="banner" />
+</p>
+
 <h1 align="center"> Bonjour! I'm Siva Chandran 👋 </h1>
 
 <p align="center"> Frontend Web Developer | MEVN Stack Developer </p>
